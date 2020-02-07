@@ -18,15 +18,21 @@ body{
     line-height: 20px;
     left: 0;
 }
-.topnav, a, li {
+.topnav nav ul {
     display: inline;
     color: black;
     text-align: right;
     padding: 14px 16px;
+    font-size: 20px;
+    text-decoration: none;
+    
+} 
+.topnav nav ul li a{
     text-decoration: none;
     font-size: 20px;
+    padding: 14px 16px;
     text-transform: uppercase;
-} 
+}
 .topnav a:hover{
     background-color: white;
     color: blue;
@@ -64,9 +70,9 @@ h2{
     
 }
 
-li {
+/* li {
    color: green; 
-}
+} */
 footer{
     color: blueviolet;
     padding: 5px;
