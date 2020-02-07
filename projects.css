@@ -72,3 +72,8 @@ strong{
     font-style: italic;
     color: lightyellow;
 }
+.link{
+    color: mistyrose;
+    background-color:wheat;
+    text-transform: lowercase;
+}
