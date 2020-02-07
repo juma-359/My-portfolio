@@ -32,7 +32,9 @@ body{
 img{
     width: 200px;
     height: 500px;
-    border-radius: 20%;
+    border-radius: 50%;
+    display: flexbox;
+
 }
 footer{
     color: blueviolet;
