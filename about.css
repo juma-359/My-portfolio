@@ -43,7 +43,7 @@ h1 {
     text-transform: uppercase;
 }
 p{
-    color: whitesmoke;
+    color: wheat;
     text-align: center;
     font-size: 18px;
 }
@@ -51,13 +51,16 @@ p{
     color: green;
     font-size: 18px;
 }
-.table, th, td{
-     color: olive;
+.table, td{
+     color: wheat;
      margin-left: auto;
      margin-right: auto;
      width: 50%;
      font-size: 20px;
      border: 1px solid black
+}
+th{
+    color: olivedrab;
 }
 h2{
     text-decoration: underline;
