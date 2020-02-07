@@ -1,0 +1,91 @@
+body{
+    background-image: url("https://bit.ly/2S315cQ");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: scroll;
+    height: 1000px;
+    
+}
+.topnav header nav{
+    background-color: greenyellow;
+    overflow: hidden;
+    width :100%;
+    position: absolute;
+    top: 0;
+    margin: 0; 
+    line-height: 20px;
+    left: 0;
+}
+.topnav, a, li {
+    display: inline;
+    color: black;
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+} 
+.topnav a:hover{
+    background-color: white;
+    color: blue;
+}
+footer{
+    color: blueviolet;
+    padding: 10px;
+    background-color: greenyellow;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    position: fixed;
+}
+h1 {
+    color: khaki;
+    text-align: center;
+    text-decoration: underline greenyellow;
+    text-transform: uppercase;
+}
+p{
+    color: lavender;
+    text-align: justify;
+
+}
+.zone {
+    text-align: center;
+    justify-content: center;
+    display: block; 
+    margin-top: 45px; 
+        
+}
+.zone :hover{
+    color: white;
+}
+/* ul, li {
+    text-align: center;
+    justify-content: center;
+    display: inline;
+    flex: initial;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+.logo-github{
+    color: blue;
+}
+.logo-linkedin{
+    color: darkblue;
+}
+.logo-facebook{
+    color: darkblue;
+}
+.logo-whatsapp{
+    color: green;
+}
+.logo-gmail{
+    color: red;
+}
+.logo-slack{
+    color: blueviolet;
+}
