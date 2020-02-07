@@ -62,3 +62,7 @@ footer{
     bottom: 0px;
     left: 0px;
 }
+strong{
+    font-weight: 0;
+    font-stylea: italic;
+}
