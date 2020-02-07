@@ -61,12 +61,9 @@ h2{
 .mylist{
     margin-left: 700px;
     color : yellowgreen;
+    color: green;
     
 }
-
-/* li {
-   color: green; 
-} */
 footer{
     color: blueviolet;
     padding: 5px;
