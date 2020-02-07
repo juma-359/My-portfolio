@@ -41,7 +41,7 @@ h1{
   color: whitesmoke;
   font-size: 20px;
 }
-p{
+p {
     color: whitesmoke;
     font-size: 20px;
 }
@@ -76,4 +76,5 @@ strong{
     color: mistyrose;
     background-color:wheat;
     text-transform: lowercase;
+    width: 30%;
 }
