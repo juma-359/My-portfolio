@@ -45,7 +45,7 @@ em{
     font-weight: 700;
     font-family: initial;
 }
-.project ul li {
+.project ol li {
     text-transform: none;
     color: lavender;
     font-style: initial;
@@ -64,5 +64,5 @@ footer{
 }
 strong{
     font-weight: 0;
-    font-stylea: italic;
+    font-style: italic;
 }
