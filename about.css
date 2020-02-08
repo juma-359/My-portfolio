@@ -87,3 +87,9 @@ footer{
     bottom: 0px;
     left: 0px;
 }
+@media screen and (min-width: 290px){
+    body{
+        background-color: greenyellow;
+        color: black;
+    }
+}
