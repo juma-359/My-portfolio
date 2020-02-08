@@ -90,3 +90,9 @@ p{
 .logo-slack{
     color: blueviolet;
 }
+@media screen and (min-width: 290px){
+    body{
+        background-color:White;
+        color: black;
+    }
+}
