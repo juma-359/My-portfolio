@@ -3,7 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     overflow: scroll;
-    height: 1000px;
+    height: 100%;
     margin-top: 50px;
     /* margin-right: 0; */
 }
@@ -80,7 +80,7 @@ strong{
 }
 @media screen and (min-width: 290px){
     body{
-        background-color:White;
+        background-color: black;
         color: olive;
         font-size: initial;
     }
